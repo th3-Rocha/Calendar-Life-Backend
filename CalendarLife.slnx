@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="CalendarLife.Api/CalendarLife.Api.csproj" />
+  <Project Path="CalendarLife.Application/CalendarLife.Application.csproj" />
   <Project Path="CalendarLife.Domain/CalendarLife.Domain.csproj" />
+  <Project Path="CalendarLife.Infrastructure/CalendarLife.Infrastructure.csproj" />
 
 
 
